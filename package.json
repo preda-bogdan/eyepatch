@@ -7,7 +7,7 @@
     "wti": "./bin/wti"
   },
   "bugs": {
-    "url": "https://github.com/pre/lucyunit/issues"
+    "url": "https://github.com/preda-bogdan/wraith_ti/issues"
   },
   "dependencies": {
     "colors": "^1.0.3",
@@ -23,28 +23,16 @@
   "engines": {
     "node": "*"
   },
-  "homepage": "https://github.com/bogdanWK/lucyunit#readme",
+  "homepage": "https://github.com/preda-bogdan/wraith_ti#readme",
   "keywords": [
-    "docker",
-    "phpunit",
-    "php unit testing",
-    "python unit testing",
-    "node unit testing",
-    "ruby unit testing",
-    "qunit",
-    "php unit testing",
-    "unit testing",
-    "docker unit test",
-    "continuous integration",
-    "travis ci",
-    "tests",
-    "integration tests"
+    "visual regression",
+    "automated"
   ],
   "license": "GPLv2+",
   "main": "./lib/command.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bogdanWK/lucyunit.git"
+    "url": "git://github.com/preda-bogdan/wraith_ti.git"
   },
   "scripts": {
     "test": "mocha"
