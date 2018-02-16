@@ -7,7 +7,7 @@
     "eyepatch": "./bin/eyepatch.js"
   },
   "bugs": {
-    "url": "https://github.com/preda-bogdan/wraith_ti/issues"
+    "url": "https://github.com/preda-bogdan/eyepatch/issues"
   },
   "dependencies": {
     "colors": "^1.0.3",
@@ -24,7 +24,7 @@
   "engines": {
     "node": "*"
   },
-  "homepage": "https://github.com/preda-bogdan/wraith_ti#readme",
+  "homepage": "https://github.com/preda-bogdan/eyepatch#readme",
   "keywords": [
     "visual regression",
     "automated"
@@ -33,7 +33,7 @@
   "main": "./lib/command.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/preda-bogdan/wraith_ti.git"
+    "url": "git://github.com/preda-bogdan/eyepatch.git"
   },
   "scripts": {
     "test": "mocha"
