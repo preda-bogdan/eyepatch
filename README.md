@@ -1,3 +1,3 @@
-# ThemeIsle Wraith
+# ThemeIsle Eyepatch
 
 TODO Add ReadMe
