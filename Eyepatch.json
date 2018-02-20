@@ -1,10 +1,11 @@
 {
   "jobs": [
     {
-      "url": "http://themeisle.com/",
-      "sitemap": "",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
       "sizes": [
-        "320",
+        "480",
         "720",
         "1920"
       ]
