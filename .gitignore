@@ -2,4 +2,7 @@
 node_modules
 !debug
 debug/*.png
+!tmp
+tmp/*.png
 *.png
+test
