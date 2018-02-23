@@ -1,0 +1,15 @@
+{
+  "jobs": [
+    {
+      "name": "home",
+      "url": "https://demo.themeisle.com/orfeo",
+      "url_base": "https://demo.themeisle.com/hestia",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    }
+  ]
+}
