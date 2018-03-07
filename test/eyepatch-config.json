@@ -1,0 +1,5 @@
+{
+  "configName": "test",
+  "galleryPath": "/var/www/html/eyepatch/gallery",
+  "galleryURL": "http://localhost/eyepatch/gallery"
+}

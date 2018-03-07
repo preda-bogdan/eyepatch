@@ -1,0 +1,235 @@
+{
+  "jobs": [
+    {
+      "name": "home1",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home2",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home3",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home4",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home5",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home6",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home7",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home8",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home9",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home10",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home11",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home12",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home13",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home14",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home15",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home16",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home17",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home18",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home19",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home20",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home21",
+      "url": "https://demo.themeisle.com/rokophoto",
+      "url_base": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    },
+    {
+      "name": "home22",
+      "url": "https://demo.themeisle.com/shop-isle",
+      "force": "false",
+      "sizes": [
+        "480",
+        "720",
+        "1920"
+      ]
+    }
+  ]
+}
